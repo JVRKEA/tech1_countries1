@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64df2cf0-ba81-440f-a9cb-f39158532f17" name="Changes" comment="w" />
+    <list default="true" id="64df2cf0-ba81-440f-a9cb-f39158532f17" name="Changes" comment="w">
+      <change beforePath="$PROJECT_DIR$/countries/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CountriesApplicationTests.executor": "Run",
     "Maven.countries [clean].executor": "Run",
     "Maven.countries [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,8 +67,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\julri\IdeaProjects\tech1_countries1\countries" />
       <recent name="C:\Users\julri\IdeaProjects\tech1_countries1" />
+      <recent name="C:\Users\julri\IdeaProjects\tech1_countries1\countries" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -82,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759475128402</updated>
       <workItem from="1759475129762" duration="163000" />
-      <workItem from="1759475310989" duration="2861000" />
+      <workItem from="1759475310989" duration="3186000" />
     </task>
     <task id="LOCAL-00001" summary="w">
       <option name="closed" value="true" />
@@ -108,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759477650188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="w">
+      <option name="closed" value="true" />
+      <created>1759480972326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759480972326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
