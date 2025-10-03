@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64df2cf0-ba81-440f-a9cb-f39158532f17" name="Changes" comment="w">
-      <change afterPath="$PROJECT_DIR$/countries/src/main/java/controllers/WelcomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries/src/main/java/com/example/countries/CountriesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/countries/src/main/java/com/example/countries/CountriesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries/src/test/java/com/example/countries/CountriesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/countries/src/test/java/com/example/countries/CountriesApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="64df2cf0-ba81-440f-a9cb-f39158532f17" name="Changes" comment="w" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +48,7 @@
     "Maven.countries [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.CountriesApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -87,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759475128402</updated>
       <workItem from="1759475129762" duration="163000" />
-      <workItem from="1759475310989" duration="2276000" />
+      <workItem from="1759475310989" duration="2861000" />
     </task>
     <task id="LOCAL-00001" summary="w">
       <option name="closed" value="true" />
@@ -105,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759477204150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="w">
+      <option name="closed" value="true" />
+      <created>1759477650188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759477650188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
